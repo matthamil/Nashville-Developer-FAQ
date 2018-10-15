@@ -83,7 +83,7 @@ Two days of Node and JavaScript.
 
 #### [PyTennessee](https://www.pytennessee.org/)
 
-> _Topics: religion, software development_
+> _Topics: Python, software development_
 
 PyTennessee is a yearly regional Python conference held every February in Nashville, TN.
 
